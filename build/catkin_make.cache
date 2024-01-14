@@ -1,0 +1,2 @@
+navigation_stage
+-DCATKIN_DEVEL_PREFIX=/home/dario/Escritorio/moviles_proyecto/devel -DCMAKE_INSTALL_PREFIX=/home/dario/Escritorio/moviles_proyecto/install -G Unix Makefiles
